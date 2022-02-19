@@ -10,7 +10,7 @@
       <li>🌱 I’m currently learning Flutter</li>
       <li>👯 I’m looking to collaborate on open source projects</li>
       <li>😄 Pronouns: He/Him</li>
-      <li>⚡ Fun fact: I started my first professional project for a company as web dev without knowing any JS </li>
+<!--       <li>⚡ Fun fact: I started my first professional project for a company as web dev without knowing any JS </li> -->
     </ul>
   </div>
   
