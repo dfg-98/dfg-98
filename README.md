@@ -19,4 +19,82 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 273 Contributions in the Year 2022
+ > 
+> 📦 161.5 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 12 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
+🌆 Daytime    256 commits    ███████████░░░░░░░░░░░░░░   45.63% 
+🌃 Evening    210 commits    █████████░░░░░░░░░░░░░░░░   37.43% 
+🌙 Night      49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.73%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+Tuesday      63 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.23% 
+Wednesday    98 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.47% 
+Thursday     72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.83% 
+Friday       115 commits    █████░░░░░░░░░░░░░░░░░░░░   20.5% 
+Saturday     88 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
+Sunday       57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.16%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Havana
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   5 repos             ███████░░░░░░░░░░░░░░░░░░   31.25% 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+C                        3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/dfg-98/dfg-98/main/charts/bar_graph.png) 
+
+
+ Last Updated on 19/02/2022 02:24:42 UTC
 <!--END_SECTION:waka-->
