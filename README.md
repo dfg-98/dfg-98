@@ -15,7 +15,6 @@
   </div>
   
 <br/><br/><br/>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dfg-98&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--START_SECTION:waka-->
