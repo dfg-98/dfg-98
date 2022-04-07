@@ -18,7 +18,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -96,5 +96,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dfg-98/dfg-98/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/04/2022 12:34:46 UTC
+ Last Updated on 07/04/2022 16:28:31 UTC
 <!--END_SECTION:waka-->
