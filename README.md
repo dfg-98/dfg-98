@@ -16,6 +16,8 @@
   
 <br/><br/><br/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dfg-98&row=3&column=3&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2058%20mins-blue)
