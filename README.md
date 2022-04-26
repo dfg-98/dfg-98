@@ -20,9 +20,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-137%20Thousand%20lines%20of%20code-blue)
 
@@ -67,8 +67,8 @@ Sunday       59 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Havana
 
 💬 Programming Languages: 
-Python                   6 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   39.68% 
-Markdown                 2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.18% 
+Python                   6 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.62% 
+Markdown                 2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
 TypeScript               2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
 HTML                     1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.28% 
 reStructuredText         1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.63%
@@ -98,5 +98,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dfg-98/dfg-98/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/04/2022 01:29:53 UTC
+ Last Updated on 26/04/2022 20:22:23 UTC
 <!--END_SECTION:waka-->
