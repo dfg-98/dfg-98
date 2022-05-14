@@ -20,7 +20,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -69,7 +69,7 @@ Sunday       43 commits     █░░░░░░░░░░░░░░░░�
 💬 Programming Languages: 
 YAML                     2 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   30.12% 
 Markdown                 1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
-Docker                   1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
+Docker                   1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.91% 
 Python                   1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
 Nginx configuration file 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   10.45%
 
@@ -98,5 +98,5 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dfg-98/dfg-98/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/05/2022 05:24:20 UTC
+ Last Updated on 14/05/2022 08:24:26 UTC
 <!--END_SECTION:waka-->
