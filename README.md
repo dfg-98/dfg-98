@@ -20,17 +20,17 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-145%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-146%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 843 Contributions in the Year 2022
+> 🏆 848 Contributions in the Year 2022
  > 
-> 📦 162.6 kB Used in GitHub's Storage 
+> 📦 163.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -42,20 +42,20 @@
 
 ```text
 🌞 Morning    72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
-🌆 Daytime    311 commits    ████████████░░░░░░░░░░░░░   50.0% 
-🌃 Evening    194 commits    ███████░░░░░░░░░░░░░░░░░░   31.19% 
+🌆 Daytime    309 commits    ████████████░░░░░░░░░░░░░   49.68% 
+🌃 Evening    196 commits    ████████░░░░░░░░░░░░░░░░░   31.51% 
 🌙 Night      45 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.23%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       135 commits    █████░░░░░░░░░░░░░░░░░░░░   21.7% 
-Tuesday      81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
+Monday       136 commits    █████░░░░░░░░░░░░░░░░░░░░   21.86% 
+Tuesday      79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
 Wednesday    124 commits    █████░░░░░░░░░░░░░░░░░░░░   19.94% 
 Thursday     71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.41% 
-Friday       104 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.72% 
-Saturday     65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
+Friday       106 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
+Saturday     64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.29% 
 Sunday       42 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.75%
 
 ```
@@ -98,5 +98,5 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dfg-98/dfg-98/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/05/2022 01:15:12 UTC
+ Last Updated on 21/05/2022 04:26:20 UTC
 <!--END_SECTION:waka-->
