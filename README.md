@@ -20,7 +20,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -98,5 +98,5 @@ C                        2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dfg-98/dfg-98/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/05/2022 20:23:34 UTC
+ Last Updated on 30/05/2022 01:42:51 UTC
 <!--END_SECTION:waka-->
