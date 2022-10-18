@@ -44,7 +44,7 @@ Full Stack Web Developer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-520%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-515%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -122,7 +122,7 @@ C                        2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dfg-98/dfg-98/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/10/2022 02:11:54 UTC
+ Last Updated on 18/10/2022 05:40:07 UTC
 <!--END_SECTION:waka-->
 
 
