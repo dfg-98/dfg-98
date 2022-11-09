@@ -44,7 +44,7 @@ Full Stack Web Developer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,7 +54,7 @@ Full Stack Web Developer
 
 > 🏆 1,733 Contributions in the Year 2022
  > 
-> 📦 160.7 kB Used in GitHub's Storage 
+> 📦 160.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -62,6 +62,49 @@ Full Stack Web Developer
  > 
 > 🔑 12 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    156 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
+🌆 Daytime    325 commits    ██████████░░░░░░░░░░░░░░░   40.32% 
+🌃 Evening    256 commits    ████████░░░░░░░░░░░░░░░░░   31.76% 
+🌙 Night      69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.56%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       130 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
+Tuesday      119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.76% 
+Wednesday    217 commits    ██████░░░░░░░░░░░░░░░░░░░   26.92% 
+Thursday     105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
+Friday       110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.65% 
+Saturday     78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+Sunday       47 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.83%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Havana
+
+💬 Programming Languages: 
+Python                   10 hrs 4 mins       ███████████░░░░░░░░░░░░░░   45.21% 
+TypeScript               6 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   27.23% 
+HTML                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.42% 
+Other                    1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.23% 
+SCSS                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.8%
+
+🔥 Editors: 
+VS Code                  22 hrs 16 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    22 hrs 16 mins      █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -79,7 +122,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dfg-98/dfg-98/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 08:29:17 UTC
+ Last Updated on 09/11/2022 12:45:13 UTC
 <!--END_SECTION:waka-->
 
 
