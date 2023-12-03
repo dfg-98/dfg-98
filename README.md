@@ -8,7 +8,10 @@ Full Stack Web Developer
 *   ✉️  You can contact me at [dariofg98@gmail.com](mailto:dariofg98@gmail.com)
 *   🚀  I'm currently working on [Aeroenvio Global Group Inc](http://aeroenvio.com)
 *   🧠  I'm learning Rust and Flutter, and mastering Django and Angular
-*   🤝  I'm open to collaborating on open source projects<a href="https://www.github.com/dfg-98" target="_blank" rel="noreferrer"><img
+*   😅 Trying to finish my thesis...
+
+
+<a href="https://www.github.com/dfg-98" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/dfg-98?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
