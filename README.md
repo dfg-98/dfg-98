@@ -6,9 +6,9 @@ Full Stack Web Developer
 
 *   🌍  I'm based in Havana, Cuba
 *   ✉️  You can contact me at [dariofg98@gmail.com](mailto:dariofg98@gmail.com)
-*   🚀  I'm currently working on [Aeroenvio Global Group Inc](http://aeroenvio.com)
+*   🚀  I'm currently working on [Aeroenvio](http://github.com/Aeroenvio)
 *   🧠  I'm learning Rust and Flutter, and mastering Django and Angular
-*   😅 Trying to finish my thesis...
+
 
 
 <a href="https://www.github.com/dfg-98" target="_blank" rel="noreferrer"><img
